@@ -4,7 +4,9 @@ royecto-EDA-con-Python
 
 Es un proyecto de thePower EDA con Python
 
-📊 Proyecto EDA con Python — Análisis Exploratorio de Datos 📌 Descripción del proyecto Este proyecto forma parte del módulo Python for Data y tiene como objetivo aplicar de manera práctica todos los conocimientos adquiridos sobre Python, Pandas, visualización, transformación de datos y análisis descriptivo. El trabajo consiste en realizar un análisis exploratorio de datos (EDA) utilizando un dataset proporcionado, aplicar técnicas de limpieza, manipulación y visualización, y presentar las conclusiones en un informe final, acompañado de un README que documente el proceso y los resultados más relevantes.
+📊 Proyecto EDA con Python — Análisis Exploratorio de Datos
+
+📌 Descripción del proyecto Este proyecto forma parte del módulo Python for Data y tiene como objetivo aplicar de manera práctica todos los conocimientos adquiridos sobre Python, Pandas, visualización, transformación de datos y análisis descriptivo. El trabajo consiste en realizar un análisis exploratorio de datos (EDA) utilizando un dataset proporcionado, aplicar técnicas de limpieza, manipulación y visualización, y presentar las conclusiones en un informe final, acompañado de un README que documente el proceso y los resultados más relevantes.
 
 🎯 Objetivos principales Importar, explorar y comprender la estructura del dataset. Realizar un proceso completo de limpieza y transformación, incluyendo manejo de valores faltantes, outliers, formatos y coherencia de variables. Aplicar técnicas de análisis descriptivo para descubrir patrones, distribuciones y relaciones relevantes. Utilizar de forma eficiente Pandas, Numpy y herramientas de visualización como Matplotlib y Seaborn. Optimizar el código utilizando funciones, buenas prácticas y estructura modular (cuando sea necesario). Generar un informe final con hallazgos clave y un README claramente documentado.
 
