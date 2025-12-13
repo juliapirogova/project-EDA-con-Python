@@ -12,6 +12,12 @@ Es un proyecto de thePower EDA con Python
 
 🔧 Tecnologías utilizadas 🟣Python 🟣Pandas 🟣Numpy 🟣Matplotlib & Seaborn 🟣Jupyter Notebook
 
+🥗Contenido del proyecto:
+Dos archivos excel con datos iniciales 
+Un archivo py con el código
+un PDF con el analisis EDA final
+un Readme 
+
 ⚡️ El desarrollo del proyecto:
 
 🧹 1. Limpieza y transformación de datos A lo largo del proyecto se aplicaron tareas esenciales de data cleaning, incluyendo: Normalización de nombres de columnas Conversión de tipos de datos (fechas, numéricos, categóricos) Tratamiento de valores faltantes Análisis de duplicados Unificación de datasets provenientes de diferentes archivos Creación de variables derivadas (ajustadas al contexto del análisis)
